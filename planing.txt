@@ -1,0 +1,55 @@
+https://youtu.be/1sPWvaiSbkM?t=1258 ==> Importent.
+
+https://youtu.be/ALF4Tzlm9YQ?t=129 ==> Clear Cart.
+
+https://youtu.be/SzExD4Sn-xM?t=748 ==> Adding Pincode Service Avalablity.
+
+https://youtu.be/SzExD4Sn-xM?t=1221 ==> Adding Pincode Service Avalablity. / Updated But Not For Mobile.
+
+https://youtu.be/2TdzZcVR_4g?t=175 ==> For Database Connection.
+
+https://youtu.be/bufV6bW96Bc?t=623 ==> For Make All T - Shirts Different. Complete But DoubtFull.
+
+https://youtu.be/iLd7e2RcFFs?t=138 ==> For Make All T - Shirts Size And Color Different. Not Complete
+
+https://youtu.be/sS-GyagLhJg?t=648 // https://youtu.be/sS-GyagLhJg?t=1074   |-->Updated<--| ==> For Add And Remove Items In Cart.   |-->Updated<--| ==> Mota Mota Completed.
+
+https://youtu.be/4_FkvAoC_zw?t=697 // https://youtu.be/4_FkvAoC_zw?t=1757   |-->Updated<--| ==> For Making Checkout Page. Completed.
+
+https://youtu.be/iLd7e2RcFFs?t=2005 ==> Completed.  But Sometime This Code Give Me Eror. 
+
+https://youtu.be/OHlwNYFryuw?t=733  ==> Not Completed. For Make All User in api section
+
+https://youtu.be/5VE82TqOaiM?t=1670 ==> Not Completed. For make somr change in PaymentInfo.
+
+
+
+MonhoDb False URL = mongodb://localhost:27017/?readPreference=primary&appname=MongoDB%20Compass&directConnection=true&ssl=false
+importent :- In MongoDb Connection Localhost Erase And Type MONGODB:127.0.0.1:27017
+
+Only For MongoDB Cluster. Full Redy To Use.
+MONGO_URI = mongodb+srv://nippon_admin:tiyasha_admin@finalecluster.srupeyr.mongodb.net/FinaleDatabase
+
+
+
+Importent Items To Be Add...
+    saveCart
+    Pincode
+
+
+Nothing...https://www.youtube.com/watch?v=smw4ECQ0S1Q
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/smw4ECQ0S1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+Login and Logout Are Perfectly Working
+now start ep60
+
+
+
+ALL Sceret KEY :
+
+JWT_KEY = My JWT Sceret 
+CRYPTO_JS_KEY = I am my Sceret
+PAYTM_MID = ''
+PAYTM_KEY = ''
